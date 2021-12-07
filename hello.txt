@@ -12,3 +12,4 @@ hello,cdw  hello git!
 hello,cdw  hello git!
 hello,cdw  hello git!
 update in hot-fix master
+update in hot-fix hotfix
