@@ -15,3 +15,4 @@ update in hot-fix master
 update in hot-fix hotfix
 update again online
 update by a test
+update by ssh
